@@ -19,7 +19,7 @@ namespace app01
         public int GenerateRandomCode()
         {
             var r = new Random();
-            return r.Next(1000, 99999);
+            return r.Next(1000, 999999);
         }
     }
 

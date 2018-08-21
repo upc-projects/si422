@@ -7,3 +7,13 @@ C:\Users\Alumnos\Documents\Visual Studio 2015\Projects\app01\app01\obj\Debug\app
 C:\Users\Alumnos\Documents\Visual Studio 2015\Projects\app01\app01\obj\Debug\app01.csproj.GenerateResource.Cache
 C:\Users\Alumnos\Documents\Visual Studio 2015\Projects\app01\app01\obj\Debug\app01.exe
 C:\Users\Alumnos\Documents\Visual Studio 2015\Projects\app01\app01\obj\Debug\app01.pdb
+C:\Users\enzoftware\Projects\SI422-SW51\Semana 1\app01\app01\bin\Debug\app01.exe.config
+C:\Users\enzoftware\Projects\SI422-SW51\Semana 1\app01\app01\bin\Debug\app01.exe
+C:\Users\enzoftware\Projects\SI422-SW51\Semana 1\app01\app01\bin\Debug\app01.pdb
+C:\Users\enzoftware\Projects\SI422-SW51\Semana 1\app01\app01\obj\Debug\app01.csprojAssemblyReference.cache
+C:\Users\enzoftware\Projects\SI422-SW51\Semana 1\app01\app01\obj\Debug\app01.Form1.resources
+C:\Users\enzoftware\Projects\SI422-SW51\Semana 1\app01\app01\obj\Debug\app01.Properties.Resources.resources
+C:\Users\enzoftware\Projects\SI422-SW51\Semana 1\app01\app01\obj\Debug\app01.csproj.GenerateResource.cache
+C:\Users\enzoftware\Projects\SI422-SW51\Semana 1\app01\app01\obj\Debug\app01.csproj.CoreCompileInputs.cache
+C:\Users\enzoftware\Projects\SI422-SW51\Semana 1\app01\app01\obj\Debug\app01.exe
+C:\Users\enzoftware\Projects\SI422-SW51\Semana 1\app01\app01\obj\Debug\app01.pdb
