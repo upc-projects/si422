@@ -1,0 +1,9 @@
+C:\Users\enzoftware\Projects\SI422-SW51\Semana 3\AplicacionContratos\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\enzoftware\Projects\SI422-SW51\Semana 3\AplicacionContratos\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\enzoftware\Projects\SI422-SW51\Semana 3\AplicacionContratos\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\enzoftware\Projects\SI422-SW51\Semana 3\AplicacionContratos\PresentationLayer\obj\Debug\PresentationLayer.csprojAssemblyReference.cache
+C:\Users\enzoftware\Projects\SI422-SW51\Semana 3\AplicacionContratos\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\enzoftware\Projects\SI422-SW51\Semana 3\AplicacionContratos\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\enzoftware\Projects\SI422-SW51\Semana 3\AplicacionContratos\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\enzoftware\Projects\SI422-SW51\Semana 3\AplicacionContratos\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\enzoftware\Projects\SI422-SW51\Semana 3\AplicacionContratos\PresentationLayer\obj\Debug\PresentationLayer.pdb
