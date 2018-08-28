@@ -1,0 +1,6 @@
+C:\Users\enzoftware\Projects\SI422-SW51\Semana 3\AplicacionContratos\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\enzoftware\Projects\SI422-SW51\Semana 3\AplicacionContratos\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\enzoftware\Projects\SI422-SW51\Semana 3\AplicacionContratos\EntityLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache
+C:\Users\enzoftware\Projects\SI422-SW51\Semana 3\AplicacionContratos\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\enzoftware\Projects\SI422-SW51\Semana 3\AplicacionContratos\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\enzoftware\Projects\SI422-SW51\Semana 3\AplicacionContratos\EntityLayer\obj\Debug\EntityLayer.pdb

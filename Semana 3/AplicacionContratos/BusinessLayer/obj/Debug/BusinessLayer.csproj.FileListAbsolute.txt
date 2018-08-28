@@ -1,0 +1,11 @@
+C:\Users\enzoftware\Projects\SI422-SW51\Semana 3\AplicacionContratos\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\enzoftware\Projects\SI422-SW51\Semana 3\AplicacionContratos\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\enzoftware\Projects\SI422-SW51\Semana 3\AplicacionContratos\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\enzoftware\Projects\SI422-SW51\Semana 3\AplicacionContratos\BusinessLayer\bin\Debug\EntityLayer.dll
+C:\Users\enzoftware\Projects\SI422-SW51\Semana 3\AplicacionContratos\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\enzoftware\Projects\SI422-SW51\Semana 3\AplicacionContratos\BusinessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\enzoftware\Projects\SI422-SW51\Semana 3\AplicacionContratos\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\enzoftware\Projects\SI422-SW51\Semana 3\AplicacionContratos\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\enzoftware\Projects\SI422-SW51\Semana 3\AplicacionContratos\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\enzoftware\Projects\SI422-SW51\Semana 3\AplicacionContratos\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\enzoftware\Projects\SI422-SW51\Semana 3\AplicacionContratos\BusinessLayer\obj\Debug\BusinessLayer.pdb

@@ -7,3 +7,11 @@ C:\Users\enzoftware\Projects\SI422-SW51\Semana 3\AplicacionContratos\Presentatio
 C:\Users\enzoftware\Projects\SI422-SW51\Semana 3\AplicacionContratos\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
 C:\Users\enzoftware\Projects\SI422-SW51\Semana 3\AplicacionContratos\PresentationLayer\obj\Debug\PresentationLayer.exe
 C:\Users\enzoftware\Projects\SI422-SW51\Semana 3\AplicacionContratos\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\enzoftware\Projects\SI422-SW51\Semana 3\AplicacionContratos\PresentationLayer\bin\Debug\BusinessLayer.dll
+C:\Users\enzoftware\Projects\SI422-SW51\Semana 3\AplicacionContratos\PresentationLayer\bin\Debug\EntityLayer.dll
+C:\Users\enzoftware\Projects\SI422-SW51\Semana 3\AplicacionContratos\PresentationLayer\bin\Debug\DataLayer.dll
+C:\Users\enzoftware\Projects\SI422-SW51\Semana 3\AplicacionContratos\PresentationLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\enzoftware\Projects\SI422-SW51\Semana 3\AplicacionContratos\PresentationLayer\bin\Debug\EntityLayer.pdb
+C:\Users\enzoftware\Projects\SI422-SW51\Semana 3\AplicacionContratos\PresentationLayer\bin\Debug\DataLayer.pdb
+C:\Users\enzoftware\Projects\SI422-SW51\Semana 3\AplicacionContratos\PresentationLayer\obj\Debug\PresentationLayer.Form1.resources
+C:\Users\enzoftware\Projects\SI422-SW51\Semana 3\AplicacionContratos\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete

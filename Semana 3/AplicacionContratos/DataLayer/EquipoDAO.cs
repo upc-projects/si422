@@ -10,7 +10,7 @@ using EntityLayer;
 
 namespace DataLayer
 {
-    class EquipoDAO
+    public class EquipoDAO
     {
         Conexion Objcn = new Conexion();
         SqlConnection cn = new SqlConnection();
@@ -26,9 +26,25 @@ namespace DataLayer
 
         public void RegistrarEquipo(Equipo eq)
         {
-            cn = Objcn.getConnection();
-            cn.Open();
-            SqlCommand cmd = new SqlCommand("SP_INSERTAR_EQUIPO", cn);
+
+            try
+            {
+                cn = Objcn.getConnection();
+                cn.Open();
+                SqlCommand cmd = new SqlCommand("SP_INSERTAR_EQUIPO", cn);
+                cmd.CommandType = CommandType.StoredProcedure;
+                cmd.Parameters.Add("tipoequipo", SqlDbType.VarChar).Value = eq.TipoEquipo;
+                cmd.Parameters.Add("estadoequipo", SqlDbType.VarChar).Value = eq.EstadoEquipo;
+                cmd.Parameters.Add("descripcionequipo", SqlDbType.VarChar).Value = eq.Descripcion;
+
+                cmd.ExecuteNonQuery();
+            }
+            catch(SqlException e)
+            {
+                throw e;
+            }
+
+
         }
     }
 }
