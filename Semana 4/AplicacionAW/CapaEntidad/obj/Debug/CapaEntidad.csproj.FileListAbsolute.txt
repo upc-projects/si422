@@ -1,0 +1,21 @@
+E:\Aplicacion\AplicacionAW\CapaEntidad\bin\Debug\CapaEntidad.dll
+E:\Aplicacion\AplicacionAW\CapaEntidad\bin\Debug\CapaEntidad.pdb
+E:\Aplicacion\AplicacionAW\CapaEntidad\obj\Debug\CapaEntidad.csprojResolveAssemblyReference.cache
+E:\Aplicacion\AplicacionAW\CapaEntidad\obj\Debug\CapaEntidad.dll
+E:\Aplicacion\AplicacionAW\CapaEntidad\obj\Debug\CapaEntidad.pdb
+D:\AW\Semana 04\demoLaboratorio05\AplicacionAW\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\AW\Semana 04\demoLaboratorio05\AplicacionAW\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\AW\Semana 04\demoLaboratorio05\AplicacionAW\CapaEntidad\obj\Debug\CapaEntidad.csprojResolveAssemblyReference.cache
+D:\AW\Semana 04\demoLaboratorio05\AplicacionAW\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\AW\Semana 04\demoLaboratorio05\AplicacionAW\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\pcsiheme\Downloads\demoLaboratorio05\demoLaboratorio05\AplicacionAW\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\pcsiheme\Downloads\demoLaboratorio05\demoLaboratorio05\AplicacionAW\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\pcsiheme\Downloads\demoLaboratorio05\demoLaboratorio05\AplicacionAW\CapaEntidad\obj\Debug\CapaEntidad.csprojResolveAssemblyReference.cache
+C:\Users\pcsiheme\Downloads\demoLaboratorio05\demoLaboratorio05\AplicacionAW\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\pcsiheme\Downloads\demoLaboratorio05\demoLaboratorio05\AplicacionAW\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\enzoftware\Downloads\demoLaboratorio05(1)\demoLaboratorio05\AplicacionAW\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\enzoftware\Downloads\demoLaboratorio05(1)\demoLaboratorio05\AplicacionAW\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\enzoftware\Downloads\demoLaboratorio05(1)\demoLaboratorio05\AplicacionAW\CapaEntidad\obj\Debug\CapaEntidad.csprojAssemblyReference.cache
+C:\Users\enzoftware\Downloads\demoLaboratorio05(1)\demoLaboratorio05\AplicacionAW\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\enzoftware\Downloads\demoLaboratorio05(1)\demoLaboratorio05\AplicacionAW\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\enzoftware\Downloads\demoLaboratorio05(1)\demoLaboratorio05\AplicacionAW\CapaEntidad\obj\Debug\CapaEntidad.pdb

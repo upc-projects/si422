@@ -1,0 +1,30 @@
+E:\Aplicacion\AplicacionAW\CapaDatos\bin\Debug\CapaDatos.dll
+E:\Aplicacion\AplicacionAW\CapaDatos\bin\Debug\CapaDatos.pdb
+E:\Aplicacion\AplicacionAW\CapaDatos\bin\Debug\CapaEntidad.dll
+E:\Aplicacion\AplicacionAW\CapaDatos\bin\Debug\CapaEntidad.pdb
+E:\Aplicacion\AplicacionAW\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+E:\Aplicacion\AplicacionAW\CapaDatos\obj\Debug\CapaDatos.dll
+E:\Aplicacion\AplicacionAW\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\AW\Semana 04\demoLaboratorio05\AplicacionAW\CapaDatos\bin\Debug\CapaDatos.dll
+D:\AW\Semana 04\demoLaboratorio05\AplicacionAW\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\AW\Semana 04\demoLaboratorio05\AplicacionAW\CapaDatos\bin\Debug\CapaEntidad.dll
+D:\AW\Semana 04\demoLaboratorio05\AplicacionAW\CapaDatos\bin\Debug\CapaEntidad.pdb
+D:\AW\Semana 04\demoLaboratorio05\AplicacionAW\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+D:\AW\Semana 04\demoLaboratorio05\AplicacionAW\CapaDatos\obj\Debug\CapaDatos.dll
+D:\AW\Semana 04\demoLaboratorio05\AplicacionAW\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\pcsiheme\Downloads\demoLaboratorio05\demoLaboratorio05\AplicacionAW\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\pcsiheme\Downloads\demoLaboratorio05\demoLaboratorio05\AplicacionAW\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\pcsiheme\Downloads\demoLaboratorio05\demoLaboratorio05\AplicacionAW\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\pcsiheme\Downloads\demoLaboratorio05\demoLaboratorio05\AplicacionAW\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\pcsiheme\Downloads\demoLaboratorio05\demoLaboratorio05\AplicacionAW\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\pcsiheme\Downloads\demoLaboratorio05\demoLaboratorio05\AplicacionAW\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\pcsiheme\Downloads\demoLaboratorio05\demoLaboratorio05\AplicacionAW\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\enzoftware\Downloads\demoLaboratorio05(1)\demoLaboratorio05\AplicacionAW\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\enzoftware\Downloads\demoLaboratorio05(1)\demoLaboratorio05\AplicacionAW\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\enzoftware\Downloads\demoLaboratorio05(1)\demoLaboratorio05\AplicacionAW\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\enzoftware\Downloads\demoLaboratorio05(1)\demoLaboratorio05\AplicacionAW\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\enzoftware\Downloads\demoLaboratorio05(1)\demoLaboratorio05\AplicacionAW\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\enzoftware\Downloads\demoLaboratorio05(1)\demoLaboratorio05\AplicacionAW\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\enzoftware\Downloads\demoLaboratorio05(1)\demoLaboratorio05\AplicacionAW\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\enzoftware\Downloads\demoLaboratorio05(1)\demoLaboratorio05\AplicacionAW\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\enzoftware\Downloads\demoLaboratorio05(1)\demoLaboratorio05\AplicacionAW\CapaDatos\obj\Debug\CapaDatos.pdb

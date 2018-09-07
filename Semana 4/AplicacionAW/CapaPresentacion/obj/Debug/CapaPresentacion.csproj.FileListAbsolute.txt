@@ -1,0 +1,66 @@
+E:\Aplicacion\AplicacionAW\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+E:\Aplicacion\AplicacionAW\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+E:\Aplicacion\AplicacionAW\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+E:\Aplicacion\AplicacionAW\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+E:\Aplicacion\AplicacionAW\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+E:\Aplicacion\AplicacionAW\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+E:\Aplicacion\AplicacionAW\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+E:\Aplicacion\AplicacionAW\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+E:\Aplicacion\AplicacionAW\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+E:\Aplicacion\AplicacionAW\CapaPresentacion\bin\Debug\CapaEntidad.dll
+E:\Aplicacion\AplicacionAW\CapaPresentacion\bin\Debug\CapaNegocio.dll
+E:\Aplicacion\AplicacionAW\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+E:\Aplicacion\AplicacionAW\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+E:\Aplicacion\AplicacionAW\CapaPresentacion\bin\Debug\CapaDatos.dll
+E:\Aplicacion\AplicacionAW\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\AplicacionesVisualStudio-master\pjContratoCapas\AplicacionAW\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\AplicacionesVisualStudio-master\pjContratoCapas\AplicacionAW\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\AplicacionesVisualStudio-master\pjContratoCapas\AplicacionAW\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\AW\Semana 04\demoLaboratorio05\AplicacionAW\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\AW\Semana 04\demoLaboratorio05\AplicacionAW\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\AW\Semana 04\demoLaboratorio05\AplicacionAW\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\AW\Semana 04\demoLaboratorio05\AplicacionAW\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\AW\Semana 04\demoLaboratorio05\AplicacionAW\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\AW\Semana 04\demoLaboratorio05\AplicacionAW\CapaPresentacion\bin\Debug\CapaEntidad.dll
+D:\AW\Semana 04\demoLaboratorio05\AplicacionAW\CapaPresentacion\bin\Debug\CapaNegocio.dll
+D:\AW\Semana 04\demoLaboratorio05\AplicacionAW\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\AW\Semana 04\demoLaboratorio05\AplicacionAW\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+D:\AW\Semana 04\demoLaboratorio05\AplicacionAW\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+D:\AW\Semana 04\demoLaboratorio05\AplicacionAW\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\AW\Semana 04\demoLaboratorio05\AplicacionAW\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+D:\AW\Semana 04\demoLaboratorio05\AplicacionAW\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+D:\AW\Semana 04\demoLaboratorio05\AplicacionAW\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\AW\Semana 04\demoLaboratorio05\AplicacionAW\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\pcsiheme\Downloads\demoLaboratorio05\demoLaboratorio05\AplicacionAW\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\pcsiheme\Downloads\demoLaboratorio05\demoLaboratorio05\AplicacionAW\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\pcsiheme\Downloads\demoLaboratorio05\demoLaboratorio05\AplicacionAW\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\pcsiheme\Downloads\demoLaboratorio05\demoLaboratorio05\AplicacionAW\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\pcsiheme\Downloads\demoLaboratorio05\demoLaboratorio05\AplicacionAW\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\pcsiheme\Downloads\demoLaboratorio05\demoLaboratorio05\AplicacionAW\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\pcsiheme\Downloads\demoLaboratorio05\demoLaboratorio05\AplicacionAW\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\pcsiheme\Downloads\demoLaboratorio05\demoLaboratorio05\AplicacionAW\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\pcsiheme\Downloads\demoLaboratorio05\demoLaboratorio05\AplicacionAW\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\pcsiheme\Downloads\demoLaboratorio05\demoLaboratorio05\AplicacionAW\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\pcsiheme\Downloads\demoLaboratorio05\demoLaboratorio05\AplicacionAW\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\pcsiheme\Downloads\demoLaboratorio05\demoLaboratorio05\AplicacionAW\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\pcsiheme\Downloads\demoLaboratorio05\demoLaboratorio05\AplicacionAW\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\pcsiheme\Downloads\demoLaboratorio05\demoLaboratorio05\AplicacionAW\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\pcsiheme\Downloads\demoLaboratorio05\demoLaboratorio05\AplicacionAW\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\enzoftware\Downloads\demoLaboratorio05(1)\demoLaboratorio05\AplicacionAW\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\enzoftware\Downloads\demoLaboratorio05(1)\demoLaboratorio05\AplicacionAW\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\enzoftware\Downloads\demoLaboratorio05(1)\demoLaboratorio05\AplicacionAW\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\enzoftware\Downloads\demoLaboratorio05(1)\demoLaboratorio05\AplicacionAW\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\enzoftware\Downloads\demoLaboratorio05(1)\demoLaboratorio05\AplicacionAW\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\enzoftware\Downloads\demoLaboratorio05(1)\demoLaboratorio05\AplicacionAW\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\enzoftware\Downloads\demoLaboratorio05(1)\demoLaboratorio05\AplicacionAW\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\enzoftware\Downloads\demoLaboratorio05(1)\demoLaboratorio05\AplicacionAW\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\enzoftware\Downloads\demoLaboratorio05(1)\demoLaboratorio05\AplicacionAW\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\enzoftware\Downloads\demoLaboratorio05(1)\demoLaboratorio05\AplicacionAW\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\enzoftware\Downloads\demoLaboratorio05(1)\demoLaboratorio05\AplicacionAW\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\enzoftware\Downloads\demoLaboratorio05(1)\demoLaboratorio05\AplicacionAW\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\enzoftware\Downloads\demoLaboratorio05(1)\demoLaboratorio05\AplicacionAW\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\enzoftware\Downloads\demoLaboratorio05(1)\demoLaboratorio05\AplicacionAW\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\enzoftware\Downloads\demoLaboratorio05(1)\demoLaboratorio05\AplicacionAW\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\enzoftware\Downloads\demoLaboratorio05(1)\demoLaboratorio05\AplicacionAW\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\enzoftware\Downloads\demoLaboratorio05(1)\demoLaboratorio05\AplicacionAW\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\enzoftware\Downloads\demoLaboratorio05(1)\demoLaboratorio05\AplicacionAW\CapaPresentacion\obj\Debug\CapaPresentacion.Form2.resources

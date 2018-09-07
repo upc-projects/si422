@@ -1,0 +1,38 @@
+E:\Aplicacion\AplicacionAW\CapaNegocio\bin\Debug\CapaNegocio.dll
+E:\Aplicacion\AplicacionAW\CapaNegocio\bin\Debug\CapaNegocio.pdb
+E:\Aplicacion\AplicacionAW\CapaNegocio\bin\Debug\CapaDatos.dll
+E:\Aplicacion\AplicacionAW\CapaNegocio\bin\Debug\CapaEntidad.dll
+E:\Aplicacion\AplicacionAW\CapaNegocio\bin\Debug\CapaDatos.pdb
+E:\Aplicacion\AplicacionAW\CapaNegocio\bin\Debug\CapaEntidad.pdb
+E:\Aplicacion\AplicacionAW\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+E:\Aplicacion\AplicacionAW\CapaNegocio\obj\Debug\CapaNegocio.dll
+E:\Aplicacion\AplicacionAW\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\AW\Semana 04\demoLaboratorio05\AplicacionAW\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\AW\Semana 04\demoLaboratorio05\AplicacionAW\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\AW\Semana 04\demoLaboratorio05\AplicacionAW\CapaNegocio\bin\Debug\CapaDatos.dll
+D:\AW\Semana 04\demoLaboratorio05\AplicacionAW\CapaNegocio\bin\Debug\CapaEntidad.dll
+D:\AW\Semana 04\demoLaboratorio05\AplicacionAW\CapaNegocio\bin\Debug\CapaDatos.pdb
+D:\AW\Semana 04\demoLaboratorio05\AplicacionAW\CapaNegocio\bin\Debug\CapaEntidad.pdb
+D:\AW\Semana 04\demoLaboratorio05\AplicacionAW\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+D:\AW\Semana 04\demoLaboratorio05\AplicacionAW\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\AW\Semana 04\demoLaboratorio05\AplicacionAW\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\pcsiheme\Downloads\demoLaboratorio05\demoLaboratorio05\AplicacionAW\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\pcsiheme\Downloads\demoLaboratorio05\demoLaboratorio05\AplicacionAW\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\pcsiheme\Downloads\demoLaboratorio05\demoLaboratorio05\AplicacionAW\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\pcsiheme\Downloads\demoLaboratorio05\demoLaboratorio05\AplicacionAW\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\pcsiheme\Downloads\demoLaboratorio05\demoLaboratorio05\AplicacionAW\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\pcsiheme\Downloads\demoLaboratorio05\demoLaboratorio05\AplicacionAW\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\pcsiheme\Downloads\demoLaboratorio05\demoLaboratorio05\AplicacionAW\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\pcsiheme\Downloads\demoLaboratorio05\demoLaboratorio05\AplicacionAW\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\pcsiheme\Downloads\demoLaboratorio05\demoLaboratorio05\AplicacionAW\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\enzoftware\Downloads\demoLaboratorio05(1)\demoLaboratorio05\AplicacionAW\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\enzoftware\Downloads\demoLaboratorio05(1)\demoLaboratorio05\AplicacionAW\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\enzoftware\Downloads\demoLaboratorio05(1)\demoLaboratorio05\AplicacionAW\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\enzoftware\Downloads\demoLaboratorio05(1)\demoLaboratorio05\AplicacionAW\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\enzoftware\Downloads\demoLaboratorio05(1)\demoLaboratorio05\AplicacionAW\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\enzoftware\Downloads\demoLaboratorio05(1)\demoLaboratorio05\AplicacionAW\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\enzoftware\Downloads\demoLaboratorio05(1)\demoLaboratorio05\AplicacionAW\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\enzoftware\Downloads\demoLaboratorio05(1)\demoLaboratorio05\AplicacionAW\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\enzoftware\Downloads\demoLaboratorio05(1)\demoLaboratorio05\AplicacionAW\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\enzoftware\Downloads\demoLaboratorio05(1)\demoLaboratorio05\AplicacionAW\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\enzoftware\Downloads\demoLaboratorio05(1)\demoLaboratorio05\AplicacionAW\CapaNegocio\obj\Debug\CapaNegocio.pdb
