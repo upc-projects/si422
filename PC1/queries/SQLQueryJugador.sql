@@ -1,0 +1,64 @@
+-- =============================================
+-- Author:		Enzo Lizama
+-- Create date: 09/09/2018
+-- Description:	Test for PC1 Web Development Course
+-- =============================================
+CREATE PROCEDURE SP_LISTAR_JUGADORES
+AS
+BEGIN
+	SELECT * FROM Jugador
+END
+GO
+
+
+CREATE PROCEDURE SP_REGISTRAR_JUGADOR(
+	@NOMBRE AS VARCHAR(50),
+	@APELLIDO AS VARCHAR(50),
+	@EDAD AS INT,
+	@TALLA AS FLOAT,
+	@PESO AS FLOAT,
+	@CAMISETA AS INT
+)
+AS
+BEGIN
+	INSERT INTO Jugador VALUES(@NOMBRE,@APELLIDO,@EDAD,@TALLA,@PESO,@CAMISETA)
+END
+GO
+
+CREATE PROCEDURE SP_ELIMINAR_JUGADOR(
+	@ID AS INT
+)
+AS
+BEGIN
+	DELETE FROM Jugador WHERE id = @ID
+END
+GO
+
+
+CREATE PROCEDURE SP_ACTUALIZAR_JUGADOR(
+	@ID AS INT,
+	@NOMBRE AS VARCHAR(50),
+	@APELLIDO AS VARCHAR(50),
+	@EDAD AS INT,
+	@TALLA AS FLOAT,
+	@PESO AS FLOAT,
+	@CAMISETA AS INT
+)
+AS
+BEGIN
+	UPDATE Jugador
+	SET nombre = @NOMBRE,
+		apellido = @APELLIDO,
+		edad = @EDAD,
+		talla = @TALLA,
+		peso = @PESO,
+		camiseta = @CAMISETA
+	WHERE id =  @ID
+END
+GO
+
+
+use FPF
+
+exec dbo.SP_REGISTRAR_JUGADOR @NOMBRE = "PAOLO",  @APELLIDO = Guerrero , @EDAD = 33 ,
+								@TALLA = 1.85, @PESO = 66, @CAMISETA = 9 
