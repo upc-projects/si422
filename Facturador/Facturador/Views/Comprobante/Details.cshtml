@@ -1,0 +1,64 @@
+﻿@model Infaestructura.Entities.Comprobante
+@{
+    ViewBag.Title = "Comprobante";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="page-header">Comprobante #@Model.id.ToString().PadLeft(4)</h2>
+
+<div class="row">
+    <div class="col-xs-12">
+        <ul class="list-group">
+            <li class="list-group-item">
+                <h3>@Model.Cliente</h3>
+            </li>
+            <li class="list-group-item">
+                <div class="row">
+                    <div class="col-xs-6">
+                        <b>Producto</b>
+                    </div>
+                    <div class="col-xs-2 text-center">
+                        <b>Cantidad</b>
+                    </div>
+                    <div class="col-xs-2 text-right">
+                        <b>Precio Unitario</b>
+                    </div>
+                    <div class="col-xs-2 text-right">
+                        <b>Monto</b>
+                    </div>
+                </div>
+            </li>
+            
+            
+            @foreach (var d in Model.ComprobanteDetalle)
+            {
+                <li class="list-group-item">
+                    <div class="row">
+                        <div class="col-xs-6">
+                            @d.Producto.Nombre
+                        </div>
+                        <div class="col-xs-2 text-center">
+                            @d.Cantidad
+                        </div>
+                        <div class="col-xs-2 text-right">
+                            @string.Format("{0}", d.PrecioUnitario)
+                        </div>
+                        <div class="col-xs-2 text-right">
+                            @string.Format("{0}", d.Monto)
+                        </div>
+                    </div>
+                </li>
+            }
+            
+            
+            
+            @if (Model.ComprobanteDetalle.Count > 0)
+            {
+                <li class="list-group-item text-right">
+                    @string.Format("{0}", Model.Total)
+                </li>
+            }
+
+        </ul>
+</div>
+</div>

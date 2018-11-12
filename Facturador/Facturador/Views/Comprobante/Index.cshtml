@@ -1,0 +1,30 @@
+﻿@model IEnumerable<Infaestructura.Entities.Comprobante>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>Cliente</th>
+        <th>Total</th>
+        <th>Creado</th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.ActionLink(item.Cliente, "Details", new { id = item.id})
+        </td>
+        <td>@string.Format("{0}", item.Total)</td>
+        <td>@item.Creado.ToString("dd-MM-yyyy")</td>
+    </tr>
+}
+
+</table>
