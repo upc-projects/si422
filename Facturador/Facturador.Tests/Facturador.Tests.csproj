@@ -92,9 +92,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Facturador\Tambo.csproj">
+    <ProjectReference Include="..\Facturador\Facturador.csproj">
       <Project>{3FE2804B-CF7B-4AB3-BE4E-DE8A20D1E4DA}</Project>
-      <Name>Tambo</Name>
+      <Name>Facturador</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />

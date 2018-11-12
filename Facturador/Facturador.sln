@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28010.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tambo", "Facturador\Tambo.csproj", "{3FE2804B-CF7B-4AB3-BE4E-DE8A20D1E4DA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facturador", "Facturador\Facturador.csproj", "{3FE2804B-CF7B-4AB3-BE4E-DE8A20D1E4DA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facturador.Tests", "Facturador.Tests\Facturador.Tests.csproj", "{12790E0A-5BBC-4C21-A937-F4C49229C79B}"
 EndProject
@@ -42,8 +42,5 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {66AAB0A4-917D-422F-BCD9-4BB21E91B6E3}
 	EndGlobalSection
 EndGlobal
